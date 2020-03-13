@@ -229,7 +229,7 @@ virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.2
 wcwidth==0.1.7
 websocket-client==0.48.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 whitenoise==3.3.1
 widgetsnbextension==2.0.0
 wrapt==1.10.10
