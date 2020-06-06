@@ -2,11 +2,13 @@
 
 Blog Website build with Django for all topics space!
 
-[Star Social](http://samkuttenk2.pythonanywhere.com/)
+
 
 
 ![Alt text](./static/simplesocial/images/StarSocial.gif?raw=true "Preview")
 
+# Deployed Site 
+* [Star Social](http://samkuttenk2.pythonanywhere.com/)
 
 # Technologies
 * [Django](https://www.djangoproject.com/)
